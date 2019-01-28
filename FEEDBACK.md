@@ -3,11 +3,17 @@
 
 In this file, I will compile your feedback (and grade) for your project homework problems in reverse chronological order. Please do not alter this file and if you do, make sure to add and commit the new version to your repository before turning in the next assignment. Thanks, Danny
 
+## Assignment 3
+
+Casey, these next two papers seem to have been pretty useful. In particular, the review paper seems to have helped frame an overarching idea of magnetars. I think you also started to bring in some of the mathematical models, which is a good thing, and will need to be expanded and articulated in your paper. I'm still a little unsure of what specifics you want to focus on, but I think there's plenty of time to work on that over the next two weeks.
+
+* Score: 20/20
+
 ## Assignment 2
 
 Casey, your summaries are very nicely done and clearly written. I think you found a couple of papers that work well for your project. I do want to ask that you try to dig a bit more into the theory and the models surrounding magnetars. I think you have a nice overview, but the paper will be strengthened if you can start digging into the theory, models, and their predictions. If you can also couple that that to an explanantion of observations that's even better. But I do want to push you to think through the mathematical models and physical theories (you can just pick one or you can compare two) that describe these. Given what you've read, there's probably an interesting history here that is worth describing; hence, the suggestion of comparing models.
 
-* Score: 16/20
+* Score: 18/20
 
 ## Assignment 1
 
