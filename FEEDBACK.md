@@ -3,6 +3,12 @@
 
 In this file, I will compile your feedback (and grade) for your project homework problems in reverse chronological order. Please do not alter this file and if you do, make sure to add and commit the new version to your repository before turning in the next assignment. Thanks, Danny
 
+## Assignment 4
+
+Casey, this is an excellent starting draft of your paper. It is compelling and intersting. I think you can continute onward. One comment is that you should have inline references to the papers that you are drawing from.
+
+* Score: 20/20
+
 ## Assignment 3
 
 Casey, these next two papers seem to have been pretty useful. In particular, the review paper seems to have helped frame an overarching idea of magnetars. I think you also started to bring in some of the mathematical models, which is a good thing, and will need to be expanded and articulated in your paper. I'm still a little unsure of what specifics you want to focus on, but I think there's plenty of time to work on that over the next two weeks.
