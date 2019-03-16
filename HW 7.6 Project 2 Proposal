@@ -1,0 +1,21 @@
+Who are the partners in this team?
+  Ben Sims and Casey Bellgraph
+  
+What are you and your partner proposing to do?
+  We are going to continue Casey's work on the E&M properties of magnetars.
+
+What area of E&M will you be conducting original calculations for?
+  Work on magnetars, specifically for dynamo action in relation to the magnetic fields of neutron stars.
+
+What source material are you drawing from?
+  Everything listed in Casey's paper: 
+  http://solomon.as.utexas.edu/sciam.pdf
+  http://articles.adsabs.harvard.edu/full/1992ApJ...392L...9D/L000009.000.html
+  https://web.archive.org/web/20130517180957/http://solomon.as.utexas.edu/~duncan/magnetar.html
+  https://link.springer.com/content/pdf/10.1007%2Fs13538-013-0137-y.pdf
+  https://www.pnas.org/content/pnas/113/15/3944.full.pdf
+
+What has been done so far and what are you going to do? It’s ok if it’s a solved problem, but you will need to reproduce what has been done and extend it beyond what your reference material offers.
+  So far, a nice theory has been set as to how dynamo action amplifies the magnetic field from that of a pulsar into a magnetar.
+  We are going to examine the relation between speed, radius, and other factors to that of the magnetic field of these neutron stars.
+  We hope to do this with several graphs and hopefully begin with a simple model that we can make more complex to model said dynamo action.
